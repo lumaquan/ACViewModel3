@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ACViewModel3</string>
+    <string name="forks">forks</string>
+    <string name="stars">stars</string>
+</resources>
